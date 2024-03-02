@@ -1,5 +1,5 @@
 # LLM_ChatBot_using_Genini-pro
-Genini-pro powered LLM model ChatBot 
+#Genini-pro powered LLM model ChatBot 
 
 import os
 import streamlit as st
